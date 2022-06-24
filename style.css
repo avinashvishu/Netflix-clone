@@ -7,6 +7,28 @@ body {
     margin: 0px;
     padding: 0px;
     overflow-y: hidden;
+    background-color: #333;
+}
+
+
+/*coupon  */
+
+#coupon {
+    height: 400px;
+    width: 390px;
+    z-index: 100;
+    position: absolute;
+    background-image: url(/image/mobile-0819.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-right: 12%;
+    margin: auto 25%;
+    margin-top: 10%;
+    visibility: hidden;
+}
+
+#coupon>button {
+    float: left;
 }
 
 #root {
