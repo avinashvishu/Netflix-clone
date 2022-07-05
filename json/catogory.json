@@ -1,0 +1,81 @@
+[{
+        "id": 1,
+        "category": "Anime"
+
+    },
+    {
+        "id": 2,
+        "category": "Dramas"
+
+    },
+    {
+        "id": 3,
+        "category": "Thriller Movies"
+
+    },
+    {
+        "id": 4,
+        "category": "Action"
+
+    },
+    {
+        "id": 5,
+        "category": "Horror Movies"
+
+    },
+    {
+        "id": 6,
+        "category": "Children & Family Movies"
+
+    },
+    {
+        "id": 7,
+        "category": "TV Shows"
+
+    },
+    {
+        "id": 8,
+        "category": "Romantic Movies"
+
+    },
+    {
+        "id": 9,
+        "category": "Comedies"
+
+    },
+    {
+        "id": 10,
+        "category": "Sci-Fi & Fantasy"
+
+    },
+    {
+        "id": 11,
+        "category": "Music & Musicals"
+
+    },
+    {
+        "id": 12,
+        "category": "Award-Winning Films"
+
+    },
+    {
+        "id": 13,
+        "category": "Action & Adventure"
+
+    },
+    {
+        "id": 14,
+        "category": "Documentaries"
+
+    },
+    {
+        "id": 15,
+        "category": "Hollywood Movies"
+
+    },
+    {
+        "id": 16,
+        "category": "Indian Movies"
+
+    }
+]

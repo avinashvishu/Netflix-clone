@@ -1,0 +1,1288 @@
+[{
+        "id": 1,
+        "name": "5 Centimeters Per Second",
+        "category_id": 1,
+        "Age": "7+",
+        "image": "https://i.ibb.co/9y26c60/1.jpg",
+        "year": 2007,
+        "info": "Inseparable fourth-graders Takaki Tonoo and Akari Shinohara -- bonded by a love of books -- begin to slowly drift apart when their families relocate."
+    },
+    {
+        "id": 2,
+        "name": "Jujutsu Kaisen",
+        "category_id": 1,
+        "Age": "16+",
+        "image": "https://i.ibb.co/9NRfskY/download.jpg",
+        "year": 2020,
+        "info": "With his days numbered, high schooler Yuji decides to hunt down and consume the remaining 19 fingers of a deadly curse so it can die with him."
+    },
+    {
+        "id": 3,
+        "name": "Naruto",
+        "category_id": 1,
+        "Age": "16+",
+        "image": "https://i.ibb.co/NF8tBJL/download.jpg",
+        "year": 2002,
+        "info": "Guided by the spirit demon within him, orphaned Naruto learns to harness his powers as a ninja in this anime adventure series."
+    },
+    {
+        "id": 4,
+        "name": "Demon Slayer: Kimetsu no Yaiba",
+        "category_id": 1,
+        "Age": "16+",
+        "image": "https://i.ibb.co/jWfDjxg/download.jpg",
+        "year": 2019,
+        "info": "After a demon attack leaves his family slain and his sister cursed, Tanjiro embarks upon a perilous journey to find a cure and avenge those he's lost."
+    },
+    {
+        "id": 5,
+        "name": "Baki",
+        "category_id": 1,
+        "Age": "16+",
+        "image": "https://i.ibb.co/xFXWmMx/AAAABfo-Dy-Xb-GEUo-XKy-HJdd2-Kw1i-H4jc7d481-Yk-7uw2-DWE-Pps6-QMMvcs3-W2-Xgs-Bisx8-Ru-BPv-ZRNk-Nf4-TB.jpg",
+        "year": 2018,
+        "info": "While martial arts champion Baki Hanma trains hard to surpass his legendary father, five violent death row inmates descend upon Tokyo to take him on."
+    },
+    {
+        "id": 6,
+        "name": "DEATH NOTE",
+        "category_id": 1,
+        "Age": "16+",
+        "image": "https://i.ibb.co/Wp1yW0p/download.jpg",
+        "year": 2006,
+        "info": "When a Japanese high schooler comes into possession of a mystical notebook, he finds he has the power to kill anybody whose name he enters in it."
+    },
+    {
+        "id": 7,
+        "name": "SPY x FAMILY",
+        "category_id": 1,
+        "Age": "13+",
+        "image": "https://i.ibb.co/58XBScv/AAAABRTuj-F0-Mm-TBXPCoay-J8-Col-ks-Gh1-K6mk4-EHL5xu-Jg9-WLg-D77o9xap-Gx0gi8jl-Wck-Zwybnh-BHamd-Oo-QX.webp",
+        "year": 2022,
+        "info": "A spy, an assassin and a telepath come together to pose as a family, each for their own reasons, while hiding their true identities from each other."
+    },
+    {
+        "id": 8,
+        "name": "Hunter X Hunter (2011)",
+        "category_id": 1,
+        "Age": "16+",
+        "image": "https://i.ibb.co/hBr8rgc/download.jpg",
+        "year": 2011,
+        "info": "To fulfill his dreams of becoming a legendary Hunter like his dad, a young boy must pass a rigorous examination and find his missing father."
+    },
+    {
+        "id": 9,
+        "name": "BASTARD‼ -Heavy Metal, Dark Fantasy",
+        "category_id": 1,
+        "Age": "16+",
+        "image": "https://i.ibb.co/BygCFVH/download.jpg",
+        "year": 2022,
+        "info": "When evil forces threaten to resurrect Anthrasax, the God of Destruction, the Kingdom of Meta-llicana calls on a volatile dark wizard for help."
+    },
+    {
+        "id": 10,
+        "name": "Major",
+        "category_id": 2,
+        "Age": "16+",
+        "image": "https://i.ibb.co/j89x3xx/download.jpg",
+        "year": 2022,
+        "info": "This biopic follows the life of Indian Army officer Major Sandeep Unnikrishnan, from his childhood to his heroic actions during the 2008 Mumbai attacks."
+    },
+    {
+        "id": 11,
+        "name": "Anek",
+        "category_id": 2,
+        "Age": "16+",
+        "image": "https://i.ibb.co/dmRb9pG/download.jpg",
+        "year": 2022,
+        "info": "Amid turmoil in northeast India, an undercover agent tasked with peace negotiations crosses paths with a tenacious boxer fighting for her dreams."
+    },
+    {
+        "id": 12,
+        "name": "Breaking Bad",
+        "category_id": 2,
+        "Age": "16+",
+        "image": "https://i.ibb.co/2WXFWT5/download.jpg",
+        "year": 2006,
+        "info": "A terminally ill chemistry teacher teams with a former student to manufacture crystal meth to secure his family's future."
+    },
+    {
+        "id": 13,
+        "name": "Vikings",
+        "category_id": 2,
+        "Age": "A",
+        "image": "https://i.ibb.co/6X547qf/download.jpg",
+        "year": 2013,
+        "info": "This gritty drama charts the exploits of Viking hero Ragnar Lothbrok as he extends the Norse reach by challenging an unfit leader who lacks vision."
+    },
+    {
+        "id": 14,
+        "name": "Peaky Blinders",
+        "category_id": 2,
+        "Age": "A",
+        "image": "https://i.ibb.co/j4rBx2B/download.jpg",
+        "year": 2013,
+        "info": "A notorious gang in 1919 Birmingham, England, is led by the fierce Tommy Shelby, a crime boss set on moving up in the world no matter the cost."
+    },
+    {
+        "id": 15,
+        "name": "Squid Game",
+        "category_id": 2,
+        "Age": "A",
+        "image": "https://i.ibb.co/m562N7G/download.jpg",
+        "year": 2021,
+        "info": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits — with deadly high stakes."
+    },
+    {
+        "id": 16,
+        "name": "Lost in Space",
+        "category_id": 2,
+        "Age": "7+",
+        "image": "https://i.ibb.co/NnnY348/download.jpg",
+        "year": 2018,
+        "info": "After crash-landing on an alien planet, the Robinson family fights against all odds to survive and escape. But they're surrounded by hidden dangers."
+    },
+    {
+        "id": 17,
+        "name": "The Vampire Diaries",
+        "category_id": 2,
+        "Age": "A",
+        "image": "https://i.ibb.co/Jty4CDX/download.jpg",
+        "year": 2009,
+        "info": "Trapped in adolescent bodies, feuding vampire brothers Stefan and Damon vie for the affection of captivating teenager Elena."
+    },
+    {
+        "id": 18,
+        "name": "The Last Kingdom",
+        "category_id": 2,
+        "Age": "A",
+        "image": "https://i.ibb.co/L9XDgMw/download.jpg",
+        "year": 2015,
+        "info": "As Alfred the Great defends his kingdom from Norse invaders, Uhtred -- born a Saxon but raised by Vikings -- seeks to claim his ancestral birthright."
+    },
+    {
+        "id": 19,
+        "name": "Yankee",
+        "category_id": 3,
+        "Age": "A",
+        "image": "https://i.ibb.co/gT7w43c/download.jpg",
+        "year": 2019,
+        "info": "On the run from the police, an Arizona man crosses into Mexico and gets deeply involved in drug trafficking -- with the help of modern technology."
+    },
+    {
+        "id": 20,
+        "name": "Gurgaon",
+        "category_id": 3,
+        "Age": "16+",
+        "image": "https://i.ibb.co/p0JgzhT/download.jpg",
+        "year": 2017,
+        "info": "When the daughter of a wealthy family returns from college, she gets a frosty welcome from her brother, who has problems -- and plans -- of his own."
+    },
+    {
+        "id": 21,
+        "name": "The Darkest Light",
+        "category_id": 3,
+        "Age": "A",
+        "image": "https://i.ibb.co/QYHz0Jw/download.jpg",
+        "year": 2022,
+        "info": "Two sisters must face a new reality — and supernatural elements — when it's revealed their parents participated in a cult ritual ending in death."
+    },
+    {
+        "id": 22,
+        "name": "Inglourious Basterds",
+        "category_id": 3,
+        "Age": "A",
+        "image": "https://i.ibb.co/Qb5gnz6/download.jpg",
+        "year": 2009,
+        "info": "A Jewish cinema owner in occupied Paris is forced to host a Nazi premiere, where a group of American soldiers called the Basterds plans a face-off."
+    },
+    {
+        "id": 23,
+        "name": "The Sinner",
+        "category_id": 3,
+        "Age": "A",
+        "image": "https://i.ibb.co/tC3DQL3/download.jpg",
+        "year": 2017,
+        "info": "In a small New York town, a haunted detective hunts for answers about perplexing crimes while wrestling with his own demons."
+    },
+    {
+        "id": 24,
+        "name": "MOM",
+        "category_id": 3,
+        "Age": "16+",
+        "image": "https://i.ibb.co/NY8Nwkp/download.jpg",
+        "year": 2017,
+        "info": "After her stepdaughter is sexually assaulted at a party, a furious mother sets out to destroy the lives of the four perpetrators who walked away free."
+    },
+    {
+        "id": 25,
+        "name": "WHAT / IF",
+        "category_id": 3,
+        "Age": "A",
+        "image": "https://i.ibb.co/MpVcznG/download.jpg",
+        "year": 2019,
+        "info": "Desperate to secure funding for her med tech startup, an idealistic scientist and her husband strike an outrageous deal with a mysterious investor."
+    },
+    {
+        "id": 26,
+        "name": "No Country for Old Men",
+        "category_id": 3,
+        "Age": "A",
+        "image": "https://i.ibb.co/ZGh5V4p/download.jpg",
+        "year": 2007,
+        "info": "A drug deal gone bad and a bag full of cash entwine an unsuspecting hunter, a veteran sheriff and a murderous hit man in the stark West Texas desert."
+    },
+    {
+        "id": 27,
+        "name": "Sacred Games",
+        "category_id": 3,
+        "Age": "A",
+        "image": "https://i.ibb.co/dgJpmsK/download.jpg",
+        "year": 2018,
+        "info": "A link in their pasts leads an honest cop to a fugitive gang boss, whose cryptic warning spurs the officer on a quest to save Mumbai from cataclysm."
+    },
+    {
+        "id": 28,
+        "name": "Fauda",
+        "category_id": 4,
+        "Age": "A",
+        "image": "https://i.ibb.co/K2j05Cf/download.jpg",
+        "year": 2015,
+        "info": "A top Israeli agent comes out of retirement to hunt for a Palestinian fighter he thought he'd killed, setting a chaotic chain of events into motion."
+    },
+    {
+        "id": 29,
+        "name": "S.W.A.T.",
+        "category_id": 4,
+        "Age": "13+",
+        "image": "https://i.ibb.co/JtQyvQS/download.jpg",
+        "year": 2017,
+        "info": "In his hometown of L.A., a sergeant is tasked with leading an elite team of officers — and defusing deadly tensions in his community."
+    },
+    {
+        "id": 30,
+        "name": "Titans",
+        "category_id": 4,
+        "Age": "A",
+        "image": "https://i.ibb.co/sFKv9NL/download.jpg",
+        "year": 2018,
+        "info": "After striking out on his own, Batman's former partner Dick Grayson encounters a number of troubled young heroes in desperate need of a mentor."
+    },
+    {
+        "id": 31,
+        "name": "Arrow",
+        "category_id": 4,
+        "Age": "A",
+        "image": "https://i.ibb.co/25x3zmY/download.jpg",
+        "year": 2012,
+        "info": "Based on DC Comics' Green Arrow, an affluent playboy becomes a vengeful superhero, saving the city from villains armed with just a bow and arrows."
+    },
+    {
+        "id": 32,
+        "name": "The Protector",
+        "category_id": 4,
+        "Age": "18",
+        "image": "https://i.ibb.co/mh1dbfL/download.jpg",
+        "year": 2018,
+        "info": "Discovering his ties to a secret ancient order, a young man living in modern Istanbul embarks on a quest to save the city from an immortal enemy."
+    },
+    {
+        "id": 33,
+        "name": "Snowpiercer",
+        "category_id": 4,
+        "Age": "A",
+        "image": "https://i.ibb.co/CWfpwqT/download.jpg",
+        "year": 2020,
+        "info": "Earth has frozen over and the last surviving humans live on a giant train circling the globe, struggling to coexist amid the delicate balance onboard."
+    },
+    {
+        "id": 34,
+        "name": "https://i.ibb.co/XJMQZJr/download.jpg",
+        "category_id": 4,
+        "Age": "A",
+        "image": "https://i.ibb.co/XJMQZJr/download.jpg",
+        "year": 2018,
+        "info": "After 250 years on ice, a prisoner returns to life in a new body with one chance to win his freedom: by solving a mind-bending murder."
+    },
+    {
+        "id": 35,
+        "name": "Minnal Murali",
+        "category_id": 4,
+        "Age": "16+",
+        "image": "https://i.ibb.co/N9KZJGK/download.jpg",
+        "year": 2021,
+        "info": "A tailor gains special powers after being struck by lightning, but must take down an unexpected foe if he is to become the superhero his hometown needs."
+    },
+    {
+        "id": 36,
+        "name": "Raising Dion",
+        "category_id": 4,
+        "Age": "7+",
+        "image": "https://i.ibb.co/x1sSBW2/download.jpg",
+        "year": 2019,
+        "info": "A widowed mom sets out to solve the mystery surrounding her young son's emerging superpowers while keeping his extraordinary gifts under wraps."
+    },
+    {
+        "id": 37,
+        "name": "Bhool Bhulaiyaa 2",
+        "category_id": 5,
+        "Age": "13+",
+        "image": "https://i.ibb.co/kStrHDX/download.jpg",
+        "year": 2022,
+        "info": "When strangers Reet and Ruhan cross paths, their journey leads to an abandoned mansion and a dreaded spirit who has been trapped for 18 years."
+    },
+    {
+        "id": 38,
+        "name": "Stranger Things",
+        "category_id": 5,
+        "Age": "16+",
+        "image": "https://i.ibb.co/VDdb70Z/download.jpg",
+        "year": 2016,
+        "info": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces and one strange little girl."
+    },
+    {
+        "id": 39,
+        "name": "Love, Death & Robots",
+        "category_id": 5,
+        "Age": "A",
+        "image": "https://i.ibb.co/HHjMvJ7/download.jpg",
+        "year": 2019,
+        "info": "Terrifying creatures, wicked surprises and dark comedy converge in this NSFW anthology of animated stories presented by Tim Miller and David Fincher."
+    },
+    {
+        "id": 40,
+        "name": "The Conjuring",
+        "category_id": 5,
+        "Age": "16+",
+        "image": "https://i.ibb.co/jDT42WQ/download.jpg",
+        "year": 2013,
+        "info": "When a family starts experiencing supernatural terrors after moving into a Rhode Island farmhouse, they seek the help of a pair of noted demonologists."
+    },
+    {
+        "id": 41,
+        "name": "The Haunting of Hill House",
+        "category_id": 5,
+        "Age": "A",
+        "image": "https://i.ibb.co/3df11LB/download.jpg",
+        "year": 2018,
+        "info": "Flashing between past and present, a fractured family confronts haunting memories of their old home and the terrifying events that drove them from it."
+    },
+    {
+        "id": 42,
+        "name": "Ouija: Origin of Evil",
+        "category_id": 5,
+        "Age": "13+",
+        "image": "https://i.ibb.co/gTjq4MZ/download.jpg",
+        "year": 2016,
+        "info": "In 1960s California, a fake medium's daughter tries to communicate with her late father through a Ouija board, but unleashes a demon instead."
+    },
+    {
+        "id": 43,
+        "name": "The Nun",
+        "category_id": 5,
+        "Age": "16+",
+        "image": "https://i.ibb.co/x129H1N/download.jpg",
+        "year": 2018,
+        "info": "A young nun travels with a priest to Romania to uncover the secrets behind a malevolent spirit haunting a sacred site."
+    },
+    {
+        "id": 44,
+        "name": "Annabelle",
+        "category_id": 5,
+        "Age": "16+",
+        "image": "https://i.ibb.co/HXxXS1q/download.jpg",
+        "year": 2014,
+        "info": "When a husband finds the perfect gift for his wife -- a beautiful and rare doll -- the joy the creepy object brings to her is short-lived."
+    },
+    {
+        "id": 45,
+        "name": "Insidious: Chapter 3",
+        "category_id": 5,
+        "Age": "16+",
+        "image": "https://i.ibb.co/g4KTp87/download.jpg",
+        "year": 2015,
+        "info": "When psychic Elise Rainier reluctantly agrees to help a teen contact her deceased mother, she unwittingly unleashes a demon that torments the girl."
+    },
+    {
+        "id": 46,
+        "name": "Spider-Man: No Way Home",
+        "category_id": 6,
+        "Age": "13+",
+        "image": "https://i.ibb.co/Ydv0Kyc/download.jpg",
+        "year": 2021,
+        "info": "When his loved ones are put at risk, Peter Parker asks Doctor Strange to restore his secret — and accidentally sets off a disaster of epic proportions."
+    },
+    {
+        "id": 47,
+        "name": "Dasvi",
+        "category_id": 6,
+        "Age": "7+",
+        "image": "https://i.ibb.co/wrnXCLf/download.jpg",
+        "year": 2021,
+        "info": "Jailed under a tough cop, an uneducated politician decides to spend his time studying for high school, while his scheming wife has plans of her own."
+    },
+    {
+        "id": 48,
+        "name": "Toolsidas Junior",
+        "category_id": 6,
+        "Age": "7+",
+        "image": "https://i.ibb.co/jzKYszB/download.jpg",
+        "year": 2022,
+        "info": "A young boy seeks to master the game of snooker to defend his father’s legacy after a humiliating loss. But first, he’ll need help from a hardened pro."
+    },
+    {
+        "id": 49,
+        "name": "Lost in Space",
+        "category_id": 6,
+        "Age": "7+",
+        "image": "https://i.ibb.co/YWmykYT/download.jpg",
+        "year": 2018,
+        "info": "After crash-landing on an alien planet, the Robinson family fights against all odds to survive and escape. But they're surrounded by hidden dangers."
+    },
+    {
+        "id": 50,
+        "name": "Jurassic World Camp Cretaceous",
+        "category_id": 6,
+        "Age": "7+",
+        "image": "https://i.ibb.co/kJ8rTfW/download.jpg",
+        "year": 2020,
+        "info": "Six teens invited to attend a state-of-the-art adventure camp on Isla Nublar must band together to survive when the dinosaurs break out of captivity."
+    },
+    {
+        "id": 51,
+        "name": "Ghostbusters: Afterlife",
+        "category_id": 6,
+        "Age": "13+",
+        "image": "https://i.ibb.co/7kr0dTP/download.jpg",
+        "year": 2021,
+        "info": "A new start in a small town reveals signs of a young family's secret supernatural legacy — and reignites dark paranormal forces seeking revenge."
+    },
+    {
+        "id": 52,
+        "name": "Jumanji: The Next Level",
+        "category_id": 6,
+        "Age": "13+",
+        "image": "https://i.ibb.co/ScsBpYx/download.jpg",
+        "year": 2013,
+        "info": "When Spencer goes missing, Martha, Bethany and Fridge realize they must go back into Jumanji to find him — but something goes wrong."
+    },
+    {
+        "id": 53,
+        "name": "Sonic the Hedgehog",
+        "category_id": 6,
+        "Age": "7+",
+        "image": "https://i.ibb.co/SVfYPf9/download.jpg",
+        "year": 2020,
+        "info": "A small-town sheriff helps an alien hedgehog with supersonic speed outrun a mad doctor who wants the creature's special powers to dominate the world."
+    },
+    {
+        "id": 54,
+        "name": "STAND BY ME Doraemon 2",
+        "category_id": 6,
+        "Age": "7+",
+        "image": "https://i.ibb.co/ryHX7KS/download.jpg",
+        "year": 2020,
+        "info": "Nobita travels to the future to show his beloved grandma his bride, but adult Nobita has fled his own wedding. Can he ever be a good husband to Shizuka?"
+    },
+    {
+        "id": 55,
+        "name": "Kapoor & Sons",
+        "category_id": 7,
+        "Age": "13+",
+        "image": "https://i.ibb.co/1Z60x1T/download.jpg",
+        "year": 2016,
+        "info": "Returning home to visit their ill grandfather, two estranged brothers must confront their unresolved rivalry while their parents’ marriage frays."
+    },
+    {
+        "id": 56,
+        "name": "Dream Home Makeover",
+        "category_id": 7,
+        "Age": "7+",
+        "image": "https://i.ibb.co/KjcR4R7/download.jpg",
+        "year": 2020,
+        "info": "Dreams come true for real families looking for the perfect home tailored to their own unique style, thanks to Shea and Syd McGee of Studio McGee."
+    },
+    {
+        "id": 57,
+        "name": "My Next Guest with David Letterman and Shah Rukh Khan",
+        "category_id": 7,
+        "Age": "U",
+        "image": "https://i.ibb.co/jhgkbGT/download.jpg",
+        "year": 2019,
+        "info": "'King of Bollywood' Shah Rukh Khan opens up about his rise to fame, his family and his billions of fans as he and Dave meet up in Mumbai and New York."
+    },
+    {
+        "id": 58,
+        "name": "My Next Guest Needs No Introduction With David Letterman",
+        "category_id": 7,
+        "Age": "16+",
+        "image": "https://i.ibb.co/DtfsqDk/download.jpg",
+        "year": 2018,
+        "info": "TV legend David Letterman teams up with fascinating global figures for in-depth interviews and curiosity-fueled excursions in this talk show."
+    },
+    {
+        "id": 59,
+        "name": "The Society",
+        "category_id": 7,
+        "Age": "A",
+        "image": "https://i.ibb.co/MZyz8wS/download.jpg",
+        "year": 2019,
+        "info": "When everyone else mysteriously vanishes from their wealthy town, the teen residents of West Ham must forge their own society to survive."
+    },
+    {
+        "id": 60,
+        "name": "Love Per Square Foot",
+        "category_id": 7,
+        "Age": "13+",
+        "image": "https://i.ibb.co/984kN7j/download.jpg",
+        "year": 2018,
+        "info": "Individually, bank employees Sanjay and Karina don't earn enough to be able to buy a home, so they decide to enter into a marriage of convenience."
+    },
+    {
+        "id": 61,
+        "name": "Awake: The Million Dollar Game",
+        "category_id": 7,
+        "Age": "7+",
+        "image": "https://i.ibb.co/PxRRSRh/download.jpg",
+        "year": 2019,
+        "info": "Sleepless for 24 hours, contestants in the comedy game show stumble through challenges both eccentric and everyday for a chance at a $1 million prize."
+    },
+    {
+        "id": 62,
+        "name": "Mismatched",
+        "category_id": 7,
+        "Age": "A",
+        "image": "https://i.ibb.co/y8kwLr8/download.jpg",
+        "year": 2020,
+        "info": "After a disastrous set-up by their families, two teens strike up a tentative friendship at their summer program — but deeper feelings aren’t far behind."
+    },
+    {
+        "id": 63,
+        "name": "Sanju",
+        "category_id": 7,
+        "Age": "A",
+        "image": "https://i.ibb.co/XCyzDWV/download.jpg",
+        "year": 2018,
+        "info": "From the depths of addiction to the heights of stardom to underworld entanglements, this biopic traces the checkered past of Indian actor Sanjay Dutt."
+    },
+    {
+        "id": 64,
+        "name": "Virata Parvam",
+        "category_id": 8,
+        "Age": "16+",
+        "image": "",
+        "year": 2022,
+        "info": "Captivated by the poems of a renegade warrior on a lethal mission, a naive yet defiant young woman follows her heart into the depths of a revolution."
+    },
+    {
+        "id": 65,
+        "name": "Little Things",
+        "category_id": 8,
+        "Age": "16+",
+        "image": "https://i.ibb.co/3hD77cy/download.jpg",
+        "year": 2016,
+        "info": "A cohabiting couple in their 20s navigate the ups and downs of work, modern-day relationships and finding themselves in contemporary Mumbai."
+    },
+    {
+        "id": 66,
+        "name": "Crash Landing on You",
+        "category_id": 8,
+        "Age": "13+",
+        "image": "https://i.ibb.co/Gk0xM9j/download.jpg",
+        "year": 2019,
+        "info": "A paragliding mishap drops a South Korean heiress in North Korea -- and into the life of an army officer, who decides he will help her hide."
+    },
+    {
+        "id": 67,
+        "name": "Chandigarh Kare Aashiqui",
+        "category_id": 8,
+        "Age": "16+",
+        "image": "https://i.ibb.co/h2dgqst/download.jpg",
+        "year": 2021,
+        "info": "Sparks fly when bodybuilder Manu meets Zumba instructor Maanvi, but Manu struggles with ingrained bias upon learning Maanvi's deeply personal story."
+    },
+    {
+        "id": 68,
+        "name": "It's Okay to Not Be Okay",
+        "category_id": 8,
+        "Age": "13+",
+        "image": "https://i.ibb.co/ySj64xd/download.jpg",
+        "year": 2020,
+        "info": "An extraordinary road to emotional healing opens up for an antisocial children's book writer and a selfless psych ward caretaker when they cross paths."
+    },
+    {
+        "id": 69,
+        "name": "First Kill",
+        "category_id": 8,
+        "Age": "A",
+        "image": "https://i.ibb.co/HnG8VNG/download.jpg",
+        "year": 2022,
+        "info": "Falling in love is tricky for teens Juliette and Calliope: One's a vampire, the other's a vampire hunter — and both are ready to make their first kill."
+    },
+    {
+        "id": 70,
+        "name": "Radhe Shyam (Hindi)",
+        "category_id": 8,
+        "Age": "16+",
+        "image": "https://i.ibb.co/YBVptcp/download.jpg",
+        "year": 2022,
+        "info": "Convinced he isn't destined for love, a renowned palmist must question everything he believes when he falls for a doctor with an uncertain future."
+    },
+    {
+        "id": 71,
+        "name": "Ginny Weds Sunny",
+        "category_id": 8,
+        "Age": "13+",
+        "image": "https://i.ibb.co/y6S2gtH/download.jpg",
+        "year": 2020,
+        "info": "Eager to marry but constantly rejected by women, a bachelor hopes to win over a former crush by accepting help from an unlikely source: her mother."
+    },
+    {
+        "id": 72,
+        "name": "Love Aaj Kal",
+        "category_id": 8,
+        "Age": "13+",
+        "image": "https://i.ibb.co/f9xQxsc/download.jpg",
+        "year": 2020,
+        "info": "When professional ambitions clash with personal feelings for a modern-day couple, a love story from a bygone decade may offer some wisdom."
+    },
+    {
+        "id": 73,
+        "name": "",
+        "category_id": 9,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 74,
+        "name": "",
+        "category_id": 9,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 75,
+        "name": "",
+        "category_id": 9,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 76,
+        "name": "",
+        "category_id": 9,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 77,
+        "name": "",
+        "category_id": 9,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 78,
+        "name": "",
+        "category_id": 9,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 79,
+        "name": "",
+        "category_id": 9,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 80,
+        "name": "",
+        "category_id": 9,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 81,
+        "name": "",
+        "category_id": 9,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 82,
+        "name": "",
+        "category_id": 10,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 83,
+        "name": "",
+        "category_id": 10,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 84,
+        "name": "",
+        "category_id": 10,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 85,
+        "name": "",
+        "category_id": 10,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 86,
+        "name": "",
+        "category_id": 10,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 87,
+        "name": "",
+        "category_id": 10,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 88,
+        "name": "",
+        "category_id": 10,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 89,
+        "name": "",
+        "category_id": 10,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 90,
+        "name": "",
+        "category_id": 10,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 91,
+        "name": "",
+        "category_id": 11,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 92,
+        "name": "",
+        "category_id": 11,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 93,
+        "name": "",
+        "category_id": 11,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 94,
+        "name": "",
+        "category_id": 11,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 95,
+        "name": "",
+        "category_id": 11,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 96,
+        "name": "",
+        "category_id": 11,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 97,
+        "name": "",
+        "category_id": 11,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 98,
+        "name": "",
+        "category_id": 11,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 99,
+        "name": "",
+        "category_id": 11,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 100,
+        "name": "",
+        "category_id": 12,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 101,
+        "name": "",
+        "category_id": 12,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 102,
+        "name": "",
+        "category_id": 12,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 103,
+        "name": "",
+        "category_id": 12,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 104,
+        "name": "",
+        "category_id": 12,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 105,
+        "name": "",
+        "category_id": 12,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 106,
+        "name": "",
+        "category_id": 12,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 107,
+        "name": "",
+        "category_id": 12,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 108,
+        "name": "",
+        "category_id": 12,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 109,
+        "name": "",
+        "category_id": 13,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 110,
+        "name": "",
+        "category_id": 13,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 111,
+        "name": "",
+        "category_id": 13,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 112,
+        "name": "",
+        "category_id": 13,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 113,
+        "name": "",
+        "category_id": 13,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 114,
+        "name": "",
+        "category_id": 13,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 115,
+        "name": "",
+        "category_id": 13,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 116,
+        "name": "",
+        "category_id": 13,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 117,
+        "name": "",
+        "category_id": 13,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 118,
+        "name": "",
+        "category_id": 14,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 120,
+        "name": "",
+        "category_id": 14,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 121,
+        "name": "",
+        "category_id": 14,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 122,
+        "name": "",
+        "category_id": 14,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 123,
+        "name": "",
+        "category_id": 14,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 124,
+        "name": "",
+        "category_id": 14,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 125,
+        "name": "",
+        "category_id": 14,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 126,
+        "name": "",
+        "category_id": 14,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 127,
+        "name": "",
+        "category_id": 15,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 128,
+        "name": "",
+        "category_id": 15,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 129,
+        "name": "",
+        "category_id": 15,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 130,
+        "name": "",
+        "category_id": 15,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 131,
+        "name": "",
+        "category_id": 15,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 132,
+        "name": "",
+        "category_id": 15,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 133,
+        "name": "",
+        "category_id": 15,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 134,
+        "name": "",
+        "category_id": 15,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 135,
+        "name": "",
+        "category_id": 15,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 136,
+        "name": "",
+        "category_id": 16,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 137,
+        "name": "",
+        "category_id": 16,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 138,
+        "name": "",
+        "category_id": 16,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 139,
+        "name": "",
+        "category_id": 16,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 140,
+        "name": "",
+        "category_id": 16,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 141,
+        "name": "",
+        "category_id": 16,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 142,
+        "name": "",
+        "category_id": 16,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 143,
+        "name": "",
+        "category_id": 16,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    },
+    {
+        "id": 144,
+        "name": "",
+        "category_id": 16,
+        "Age": "",
+        "image": "",
+        "year": ,
+        "info": ""
+    }
+]
