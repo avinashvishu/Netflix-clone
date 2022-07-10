@@ -1134,155 +1134,164 @@
     },
     {
         "id": 127,
-        "name": "",
+        "name": "Spider-Man: No Way Home",
         "category_id": 15,
-        "Age": "",
-        "image": "",
-        "year": ,
-        "info": ""
+        "Age": "13+",
+        "image": "https://i.ibb.co/NZSM9tM/download.jpg",
+        "year": 2021,
+        "info": "When his loved ones are put at risk, Peter Parker asks Doctor Strange to restore his secret — and accidentally sets off a disaster of epic proportions."
     },
     {
         "id": 128,
-        "name": "",
+        "name": "The Sea Beast",
         "category_id": 15,
-        "Age": "",
-        "image": "",
-        "year": ,
-        "info": ""
+        "Age": "7+",
+        "image": "https://i.ibb.co/MpPyFDw/download.jpg",
+        "year": 2022,
+        "info": "When a young girl stows away on the ship of a legendary sea monster hunter, they launch an epic journey into uncharted waters — and make history to boot."
     },
     {
         "id": 129,
-        "name": "",
+        "name": "The Man from Toronto",
         "category_id": 15,
-        "Age": "",
-        "image": "",
-        "year": ,
-        "info": ""
+        "Age": "13+",
+        "image": "https://i.ibb.co/7pHdvzd/download.jpg",
+        "year": 2022,
+        "info": "A case of mistaken identity forces a bumbling entrepreneur to team up with a notorious assassin known as The Man from Toronto in hopes of staying alive."
     },
     {
         "id": 130,
-        "name": "",
+        "name": "Venom: Let There Be Carnage",
         "category_id": 15,
-        "Age": "",
-        "image": "",
-        "year": ,
-        "info": ""
+        "Age": "13+",
+        "image": "https://i.ibb.co/7kKbf7g/download.jpg",
+        "year": 2021,
+        "info": "While Eddie Brock and Venom try to navigate their thorny relationship, a new threat rises from serial killer Cletus Kasady and a new alien symbiote."
     },
     {
         "id": 131,
-        "name": "",
+        "name": "Hustle",
         "category_id": 15,
-        "Age": "",
-        "image": "",
-        "year": ,
-        "info": ""
+        "Age": "16+",
+        "image": "https://i.ibb.co/YRsjgDH/download.jpg",
+        "year": 2022,
+        "info": "When a down-on-his-luck basketball scout finds a potential superstar in Spain, he sets out to prove they both have what it takes to make it in the NBA."
     },
     {
         "id": 132,
-        "name": "",
+        "name": "American Sniper",
         "category_id": 15,
-        "Age": "",
-        "image": "",
-        "year": ,
-        "info": ""
+        "Age": "16+",
+        "image": "https://i.ibb.co/vZGvVHb/download.jpg",
+        "year": 2014,
+        "info": "U.S. Navy SEAL marksman Chris Kyle racks up an unprecedented number of kills in Iraq, even as his home life starts to slip away from him."
+    },
+    {
+        "id": 133,
+        "name": "Men in Black: International",
+        "category_id": 15,
+        "Age": "13+",
+        "image": "https://i.ibb.co/bLCL4H2/download.jpg",
+        "year": 2019,
+        "info": "When shape-shifting aliens threaten Earth, a new recruit and a veteran MiB agent embark on a mission to save their own organization — and the world."
     },
     {
         "id": 134,
-        "name": "",
+        "name": "Fight Club",
         "category_id": 15,
-        "Age": "",
-        "image": "",
-        "year": ,
-        "info": ""
+        "Age": "A",
+        "image": "https://i.ibb.co/r48qNnY/download.jpg",
+        "year": 1999,
+        "info": "A disillusioned office worker finds an outlet for his pent-up feelings when he and mysterious new pal Tyler Durden start a violent underground society."
     },
     {
         "id": 135,
-        "name": "",
+        "name": "Gods of Egypt",
         "category_id": 15,
-        "Age": "",
-        "image": "",
-        "year": ,
-        "info": ""
+        "Age": "13+",
+        "image": "https://i.ibb.co/vD4sfRT/download.jpg",
+        "year": 2016,
+        "info": "After losing control of Egypt to dark god Set, who brings chaos to the land, god Horus teams up with a mortal thief to save humankind."
     },
     {
         "id": 136,
-        "name": "",
-        "category_id": 15,
-        "Age": "",
-        "image": "",
-        "year": ,
-        "info": ""
+        "name": "Mimi",
+        "category_id": 16,
+        "Age": "13+",
+        "image": "https://i.ibb.co/WxXd9Tv/download.jpg",
+        "year": 2021,
+        "info": "An aspiring actress in a small town agrees to bear a child for a visiting couple seeking a surrogate mother, but her experience takes unexpected turns."
     },
     {
         "id": 137,
-        "name": "",
+        "name": "Sanju",
         "category_id": 16,
-        "Age": "",
-        "image": "",
-        "year": ,
-        "info": ""
+        "Age": "A",
+        "image": "https://i.ibb.co/d4WPS9p/download.jpg",
+        "year": 2018,
+        "info": "From the depths of addiction to the heights of stardom to underworld entanglements, this biopic traces the checkered past of Indian actor Sanjay Dutt."
     },
     {
         "id": 138,
-        "name": "",
+        "name": "Zindagi Na Milegi Dobara",
         "category_id": 16,
-        "Age": "",
-        "image": "",
-        "year": ,
-        "info": ""
+        "Age": "13+",
+        "image": "https://i.ibb.co/WkfTXLj/download.jpg",
+        "year": 2011,
+        "info": "Three friends on an adventurous road trip/bachelor party in Spain learn some lessons about themselves and each other that will change them forever."
     },
     {
         "id": 139,
-        "name": "",
+        "name": "Kabir Singh",
         "category_id": 16,
-        "Age": "",
-        "image": "",
-        "year": ,
-        "info": ""
+        "Age": "A",
+        "image": "https://i.ibb.co/dtwnpYj/download.jpg",
+        "year": 2019,
+        "info": "An exalted but short-fused surgeon plunges into a spiral of drugs, alcohol and rage after his intense relationship with his girlfriend turbulently ends."
     },
     {
         "id": 140,
-        "name": "",
+        "name": "Raajneeti",
         "category_id": 16,
-        "Age": "",
-        "image": "",
-        "year": ,
-        "info": ""
+        "Age": "16+",
+        "image": "https://i.ibb.co/cwCRk5K/download.jpg",
+        "year": 2010,
+        "info": "When the American-educated scion of a powerful Indian family returns to the subcontinent, his first taste of power starts him down a corrupt path."
     },
     {
         "id": 141,
-        "name": "",
+        "name": "Lakshya",
         "category_id": 16,
-        "Age": "",
-        "image": "",
-        "year": ,
-        "info": ""
+        "Age": "16+",
+        "image": "https://i.ibb.co/djLPkq2/download.jpg",
+        "year": 2004,
+        "info": "After dropping out of the army, a spoiled teenager reenlists and proves his mettle by becoming an officer just as war breaks out."
     },
     {
         "id": 142,
-        "name": "",
+        "name": "Yeh Jawaani Hai Deewani",
         "category_id": 16,
-        "Age": "",
-        "image": "",
-        "year": ,
-        "info": ""
+        "Age": "13+",
+        "image": "https://i.ibb.co/98dG65k/download.jpg",
+        "year": 2013,
+        "info": "On a trekking trip, an introvert falls for a charming ex-classmate, whose thirst for adventure drives them apart. Years later, their paths cross again."
     },
     {
         "id": 143,
-        "name": "",
+        "name": "Gangs of Wasseypur: Part 2",
         "category_id": 16,
-        "Age": "",
-        "image": "",
-        "year": ,
-        "info": ""
+        "Age": "A",
+        "image": "https://i.ibb.co/RYrdPbG/download.jpg",
+        "year": 2012,
+        "info": "As two rival clans continue their bloody feud in a crime-ridden mining town, the black sheep of one family steps up as leader, with only one goal: kill."
     },
     {
         "id": 144,
-        "name": "",
+        "name": "Raat Akeli Hai",
         "category_id": 16,
-        "Age": "",
-        "image": "",
-        "year": ,
-        "info": ""
+        "Age": "A",
+        "image": "https://i.ibb.co/QPvNYBf/download.jpg",
+        "year": 2020,
+        "info": "When a newly married landlord is murdered, a misfit cop’s investigation is complicated by the victim’s secretive family and his own conflicted heart."
     }
 ]
