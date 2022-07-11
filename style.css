@@ -132,3 +132,7 @@ body {
 .btn-get-started:hover {
     background-color: #ff0b18;
 }
+
+.main-page {
+    text-decoration: none;
+}
